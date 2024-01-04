@@ -1,0 +1,13 @@
+printf("문자열")
+f : Format(형식)
+printf의 매개변수는 가변적
+
+scanf_s 입력 담당(scanf는 보안문제가 있어 사용하지 말기)
+
+\n (\는 escape sequence)
+printf('\n')
+
+%c (%~ 는 형식문자라고 부름)
+printf("xsms %d 입니다.", x);
+
+
